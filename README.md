@@ -1,11 +1,15 @@
 ## Hi there 👋 I am Aswin vishal
 
- studying final year as ECE student
-
- - 🌱 I’m currently learning flutter
+ 🎓 Final year ECE student  
+💡 Always learning something new
 
  ### I coded in
 <img width="50" height="50" src="https://img.icons8.com/color/48/flutter.png" alt="flutter"/>   <img width="50" height="50" src="https://img.icons8.com/color/48/dart.png" alt="dart"/>  <img width="50" height="50" src="https://img.icons8.com/3d-fluency/94/java.png" alt="java"/>  <img width="50" height="50" src="https://img.icons8.com/arcade/64/html-5.png" alt="html-5"/>  <img width="50" height="50" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>  <img width="50" height="50" src="https://img.icons8.com/color/48/sass.png" alt="sass"/>  <img width="50" height="50" src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="bootstrap"/>  <img width="50" height="50" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/>  <img width="50" height="50" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/>  <img width="50" height="50" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>  <img width="50" height="50" src="https://img.icons8.com/3d-fluency/94/python.png" alt="python"/>
+
+## 📈 Currently
+
+- Exploring new technologies & building side projects
+- Focused on continuous learning
 <!--
 **aswin402/aswin402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
