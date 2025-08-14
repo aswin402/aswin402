@@ -1,6 +1,5 @@
 ## Hi there 👋 I am Aswin vishal
 
- 🎓 Final year ECE student  
 💡 Always learning something new
 
  ### I coded in
