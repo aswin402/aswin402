@@ -45,13 +45,6 @@ I'm a dedicated developer with a passion for creating robust and user-friendly a
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aswin402&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aswin402&layout=compact&theme=dark&hide_border=true)
-
----
 
 ## 🤝 Let's Connect
 
