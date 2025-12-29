@@ -22,7 +22,8 @@ I'm a dedicated developer with a passion for creating robust and user-friendly a
 
 
 ### **Backend**
-<img width="50" height="50" alt="Node.js" src="https://github.com/user-attachments/assets/a10bef60-b3ce-43df-93d8-2806d99989a2"/> <img width="50" height="50" alt="Express.js" src="https://github.com/user-attachments/assets/c5ed1f4a-83ef-4891-b6b9-3f63e6d7d88e"/>  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/d099202e-4b0f-4ac9-beea-3134d9331f46" />
+<img width="50" height="50" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/> <img width="50" height="50" src="https://img.icons8.com/color/48/express-js.png" alt="express-js"/>
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/d099202e-4b0f-4ac9-beea-3134d9331f46" />
 <img width="50" height="50" alt="Hono.js" src="https://hono.dev/images/logo.png" />
 
 
