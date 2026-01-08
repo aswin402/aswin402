@@ -29,7 +29,7 @@ I'm a dedicated developer with a passion for creating robust and user-friendly a
 
 
 ### **Databases**
-<img width="50" height="50" alt="MongoDB" src="https://github.com/user-attachments/assets/d2adbdd7-8dcc-4c2c-9864-49453c476560"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="MySQL"/>
+<img width="50" height="50" alt="MongoDB" src="https://github.com/user-attachments/assets/d2adbdd7-8dcc-4c2c-9864-49453c476560"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="MySQL"/> <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-color-tal-revivo.png" alt="external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-color-tal-revivo"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/prisma-orm.png" alt="prisma-orm"/>
 
 ### **Programming Languages**
 <img width="50" height="50" src="https://img.icons8.com/3d-fluency/94/java.png" alt="Java"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/c-programming.png" alt="C"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" alt="C++"/> <img width="50" height="50" src="https://img.icons8.com/3d-fluency/94/python.png" alt="Python"/>
