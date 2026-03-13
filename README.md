@@ -22,14 +22,18 @@ I'm a dedicated developer with a passion for creating robust and user-friendly a
 
 
 ### **Backend**
-<img width="50" height="50" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/><img width="50" height="50" src="https://img.icons8.com/ios/50/express-js.png" alt="express-js"/>
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/d099202e-4b0f-4ac9-beea-3134d9331f46" />
+<img width="50" height="50" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/1614c981-57e1-47c3-b5f6-54337d27719a" />
+<img width="50" height="50" alt="bun" src="https://github.com/user-attachments/assets/d099202e-4b0f-4ac9-beea-3134d9331f46" />
 <img width="50" height="50" alt="Hono.js" src="https://hono.dev/images/logo.png" />
+<img width="48" height="48" alt="fastapi" src="https://github.com/user-attachments/assets/0fec77cf-5d99-44ec-8759-2a45d89e840e" />
+
+
 
 
 
 ### **Databases**
-<img width="50" height="50" alt="MongoDB" src="https://github.com/user-attachments/assets/d2adbdd7-8dcc-4c2c-9864-49453c476560"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="MySQL"/> <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-color-tal-revivo.png" alt="external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-color-tal-revivo"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/prisma-orm.png" alt="prisma-orm"/>
+<img width="50" height="50" alt="MongoDB" src="https://github.com/user-attachments/assets/d2adbdd7-8dcc-4c2c-9864-49453c476560"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="MySQL"/> <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-color-tal-revivo.png" alt="external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-color-tal-revivo"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/prisma-orm.png" alt="prisma-orm"/> <img width="100" height="70" alt="sqlAlchemy" src="https://github.com/user-attachments/assets/657dee40-b617-4a7e-b186-701090cf0f8c" />
+
 
 ### **Programming Languages**
 <img width="50" height="50" src="https://img.icons8.com/3d-fluency/94/java.png" alt="Java"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/c-programming.png" alt="C"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" alt="C++"/> <img width="50" height="50" src="https://img.icons8.com/3d-fluency/94/python.png" alt="Python"/>
